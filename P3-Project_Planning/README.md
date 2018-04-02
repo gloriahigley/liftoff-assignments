@@ -10,7 +10,7 @@ For this assignment, you'll create some initial plans for your project.
 
 (Include at least 3 wireframes here, adding images or files to your the repository as necessary. Format them as a bulleted/unordered list with links to the files.)
 
-* [Home Page](http://github.com/gloriahigly/liftoff-assignments/P3-Project_Planning/assets/HomePage.png)
+* [Home Page](http://github.com/gloriahigley/liftoff-assignments/P3-Project_Planning/assets/HomePage.png)
 * [Assessment Page](http://github.com/assets/ActionPlan.png)
 * [Action Plan](http://github.com/assets/AssessmentPage.png)
 
